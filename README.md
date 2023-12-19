@@ -2,7 +2,6 @@
 
 ## Education
 
-
 ## Work Experience
 
 ## section 3
