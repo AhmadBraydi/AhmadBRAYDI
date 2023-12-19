@@ -1,7 +1,7 @@
 # PhD student
 ## Education
 
-## Work Experience
+# Work Experience
 
 ## section 3
 
