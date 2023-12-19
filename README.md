@@ -1,7 +1,7 @@
 # Hi there 👋
 
 
-[Ahmad](Images/profile.png)
+![Ahmad](Images/profile.png)
 
 
 <!--
