@@ -1,6 +1,5 @@
 # Hi there 👋
 
-# Hi
 
 [Ahmad](Images/profile.png)
 
